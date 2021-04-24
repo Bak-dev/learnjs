@@ -1,0 +1,1 @@
+These are my first lines of Javascript. Well it was an assignment and i hope i like it.

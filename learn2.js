@@ -6,6 +6,7 @@ console.log(birth);
 
 let currentDate = newDate ()
 
+
 let currentYear = currentDate.getFullyear();
 console.log(currentYear);
 
@@ -15,7 +16,7 @@ if (age>36){
  console.log   (`elder`)
 }
 
-else if (age>= 18 && age < =36){
+else if (age>= 18 && age <=36){
     console.log (`youth`)
 }
 else if (age<18){

@@ -1,4 +1,8 @@
-function fizzbuzz()
+function fizzbuzz(){
+}
+
+let string1 = 'Calvin'
+let string2 = 'Bakulumpa'
 
 let stringlength = string1.length + string2.length;
 
@@ -16,4 +20,4 @@ else if(stringlength%5===0)
 
 {console.log("buzz")}
 
-fizzbuzz("Calvin","Bakulumpagi")
+fizzbuzz("Calvin","Bakulumpa")
